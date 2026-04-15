@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="guess_the_number/guess_the_number.csproj" />
+  <Project Path="hot_and_cold/hot_and_cold.csproj" />
+  <Project Path="marble_game/marble_game.csproj" />
+  <Project Path="rock_paper_scissors/rock_paper_scissors.csproj" />
+</Solution>

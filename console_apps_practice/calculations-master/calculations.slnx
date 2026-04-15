@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="arithmetic_series_calculator/arithmetic_series_calculator.csproj" />
+  <Project Path="calculate_1/calculate_1.csproj" />
+  <Project Path="fibonacci/fibonacci.csproj" />
+  <Project Path="file_operation/file_operation.csproj" />
+  <Project Path="geometric_calculation/geometric_calculation.csproj" />
+  <Project Path="student _score_calculation/student _score_calculation.csproj" />
+</Solution>
